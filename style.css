@@ -1,0 +1,24 @@
+body {
+ text-align: center;
+ background-color: black;
+ color: white;
+}
+.inp{
+outline: none;
+background-color: transparent;
+height: 40px;
+width: 80%;
+border-radius: 20px;
+border: 1px solid aqua;
+color: white;
+font-size: 20px;
+}
+.btn{
+height: 30px;
+width: 70px;
+border-radius: 20px;
+border: 1px solid aqua;
+background-color: transparent;
+color: white;
+outline: none;
+}
